@@ -1,4 +1,4 @@
 learning git
 git is awesome
-echo "learning git" > notes.txt
-echo "git is very powerful" >> notes.txt
+git is awesome for DevOps
+
