@@ -2,3 +2,4 @@ learning git
 git is awesome
 git is awesome for DevOps
 
+I am learning Git with chatgpt.
